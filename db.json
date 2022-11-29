@@ -5,6 +5,10 @@
   "firstname":"maede",
   "lastname":"zebhi",
   "email":"maede@gmail.com",
-  "password":"123123"}
+  "password":"123123",
+ "posts":16,
+"followers":150,
+"following" : 230
+}
   ]
 }
