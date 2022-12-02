@@ -48,5 +48,42 @@
   "date":"چهارشنبه",
   "image":"https://i.ibb.co/tLspRDP/avatar-6.jpg"
 }
+  ],
+ "notifications": [
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa2",
+  "senderfullname":"وحید محمدی",
+  "description":"درخواست شما را تایید کرده است",
+  "date":"2 دقیقه قبل", 
+  "image": "https://i.ibb.co/vZ7vL3Q/avatar-1.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa4",
+  "senderfullname":"علی مومنی",
+  "description":"پروفایل شما را مشاهده کرده است",
+  "date":"3 ساعت قبل",
+  "image":"https://i.ibb.co/MS3hjY2/avatar-3.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa5",
+  "senderfullname":"علی رضایی",
+  "description":"درخواست شما را تایید کرده است",
+  "date":"4 ساعت قبل",
+ "image":"https://i.ibb.co/mRC55Vt/avatar-7.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa9",
+  "senderfullname":"فرهاد مجیدی",
+  "description":"درخواست شما را رد کرده است",
+  "date":"10 ساعت قبل",
+ "image":"https://i.ibb.co/vZSxwRV/avatar-4.jpg"
+},
+{
+"id":"343b8efc-1099-4796-911d-539d6a5e5aa8",
+  "senderfullname":"بهار محمدی",
+  "description":"پست شما را لایک کرده است",
+  "date":"Yesterday",
+  "image":"https://i.ibb.co/tLspRDP/avatar-6.jpg"
+}
   ]
 }
