@@ -2,10 +2,11 @@
   "users": [
 {
 "id":"343b8efc-1099-4796-911d-539d6a5e5aa1",
-  "firstname":"مائده",
-  "lastname":"ذبحی",
+  "firstname":"سجاد",
+  "lastname":"سعادت",
   "email":"maede@gmail.com",
   "password":"123123",
+"image": "https://i.ibb.co/PT7zGST/avatar-2.jpg",
  "posts":16,
 "followers":150,
 "following" : 230
